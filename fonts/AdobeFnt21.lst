@@ -1,0 +1,105 @@
+%!Adobe-FontList 1.20
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AbadiMTStd-Bold
+FamilyName:Abadi MT Std
+StyleName:Bold
+FullName:Abadi MT Std Bold
+MenuName:Abadi MT Std
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Alexandra\Desktop\PROJETOS\Projetos\Kae\Finalizados\Pasta Modelo_Site\Document fonts\abadi-mt-std-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29832
+FileModTime:1480066910
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Abadi MT Std Bold
+NameArray:0,Win,1,Abadi MT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AbadiMTStd-ExtraBold
+FamilyName:Abadi MT Std
+StyleName:Extra Bold
+FullName:Abadi MT Std Extra Bold
+MenuName:Abadi MT Std Extra Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Alexandra\Desktop\PROJETOS\Projetos\Kae\Finalizados\Pasta Modelo_Site\Document fonts\abadi-mt-std-extra-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30248
+FileModTime:1480066838
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Abadi MT Std Extra Bold
+NameArray:0,Win,1,Abadi MT Std Extra Bold
+NameArray:0,Win,16,Abadi MT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AbadiMTStd-Light
+FamilyName:Abadi MT Std
+StyleName:Light
+FullName:Abadi MT Std Light
+MenuName:Abadi MT Std Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Alexandra\Desktop\PROJETOS\Projetos\Kae\Finalizados\Pasta Modelo_Site\Document fonts\abadi-mt-std-light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29872
+FileModTime:1480066912
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Abadi MT Std Light
+NameArray:0,Win,1,Abadi MT Std Light
+NameArray:0,Win,16,Abadi MT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AbadiMTStd
+FamilyName:Abadi MT Std
+StyleName:Regular
+FullName:Abadi MT Std
+MenuName:Abadi MT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Alexandra\Desktop\PROJETOS\Projetos\Kae\Finalizados\Pasta Modelo_Site\Document fonts\abadi-mt-std.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29672
+FileModTime:1480066068
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Abadi MT Std
+NameArray:0,Win,1,Abadi MT Std
+%EndFont
+
