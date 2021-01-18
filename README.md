@@ -24,11 +24,13 @@ Besides, it is good to have an editor to work with the code like [VSCode](https:
 
 ```bash
 # Create the following table in the MySQL database
-$ CREATE TABLE contacts (
+$ CREATE TABLE petroplasticos (
 id INT(11) AUTO_INCREMENT PRIMARY KEY,
 name VARCHAR(50) NOT NULL,
 email VARCHAR(50) NOT NULL,
-phoneNumber VARCHAR(50) NOT NULL
+message TEXT NOT NULL,
+subscription INT(1) NOT NULL,
+dateTime VARCHAR(10) NOT NULL
 )
 
 # Clone this repository
