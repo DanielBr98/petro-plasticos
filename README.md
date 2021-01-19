@@ -1,7 +1,7 @@
 <h1 align="center">
     <a target="blank" href="https://bit.ly/petroplasticos">🔗 Petro Plásticos</a>
 </h1>
-<p align="center">📌 Site developed for the company Petro Plásticos.</p>
+<p align="center">📌 Project of a one page website developed for the company Petro Plásticos.</p>
 
 <p align="center">
  <a href="#prerequisites">Prerequisites</a> • 
