@@ -1,6 +1,10 @@
-<h1 align="center">
+<!--<h1 align="center">
     <a target="blank" href="https://bit.ly/petroplasticos">🔗 Petro Plásticos</a>
+</h1>-->
+<h1 align="center">
+    Petro Plásticos
 </h1>
+
 <p align="center">📌 Project of a one page website developed for the company Petro Plásticos.</p>
 
 <p align="center">
@@ -9,8 +13,11 @@
  <a href="#author">Author</a>
 </p>
 
-<h1 align="center">
+<!--<h1 align="center">
   <a target="blank" href="https://bit.ly/petroplasticos"><img alt="Petro Plásticos" title="Petro Plásticos" src="https://user-images.githubusercontent.com/43521892/104857440-6899ac00-58f7-11eb-89df-c67419314d74.png"/></a>
+</h1>-->
+<h1 align="center">
+  <img alt="Petro Plásticos" title="Petro Plásticos" src="https://user-images.githubusercontent.com/43521892/104857440-6899ac00-58f7-11eb-89df-c67419314d74.png"/>
 </h1>
 
 ---
