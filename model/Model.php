@@ -4,7 +4,7 @@ require '../mysql/Connect.php';
 class Model extends Connect
 {
 
-    static function registerNewMessage($a, $b, $c, $d, $e)
+    static function registerNewMessage(string $a, string $b, string $c, string $d, string $e)
     {
         try {
 

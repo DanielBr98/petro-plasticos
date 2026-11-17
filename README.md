@@ -31,7 +31,7 @@ Besides, it is good to have an editor to work with the code like [VSCode](https:
 
 ```bash
 # Create the following table in the MySQL database
-$ CREATE TABLE petroplasticos (
+CREATE TABLE petroplasticos (
 id INT(11) AUTO_INCREMENT PRIMARY KEY,
 name VARCHAR(50) NOT NULL,
 email VARCHAR(50) NOT NULL,
@@ -41,10 +41,10 @@ dateTime VARCHAR(10) NOT NULL
 )
 
 # Clone this repository
-$ git clone <https://github.com/DanielBr98/petro-plasticos.git>
+git clone https://github.com/DanielBr98/petro-plasticos.git
 
 # Access the project folder on terminal/cmd
-$ cd petro-plasticos
+cd petro-plasticos
 
 # To access the project in the browser, activate the Apache server and the MySQL, and then go to <http://localhost/exchange-rates/>
 ```

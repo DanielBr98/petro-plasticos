@@ -6,6 +6,7 @@ abstract class Connect
         $servername = "localhost";
         $username = "root";
         $password = "password";
+        $conn = null;
 
         try {
             $conn = new PDO("mysql:host=$servername;dbname=database", $username, $password);
